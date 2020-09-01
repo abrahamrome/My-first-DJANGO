@@ -1,0 +1,60 @@
+   {% extends "base.html" %}
+   {% load crispy_forms_tags %}
+   {% load static %}
+
+{% block head_title %}Bienvenidos | {{block.super}}{% endblock %}
+
+<style>
+{% block style %}
+.jumbotron {
+  background-color: #9FD5D1!important;
+  
+}
+{% endblock %}
+</style>
+
+   {% block jumbotron %}
+<div class="jumbotron">
+<div class="container">
+   <div class='row'>
+     <div class='col-sm-6'>
+        <h2>Probando Django 3.0</h2>
+        <p>Un proyecto para principiantes. El objetivo es construir un aplicacion web simple a la vez que sea elegante en muy poco tiempo</p>
+       
+        <p>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button"> Únete! &raquo;</a>
+        </p>
+     </div>
+     <div class='col-sm-6'><iframe width="560" height="315" src="https://www.youtube.com/embed/ChSvnSv_3aw" frameborder="0" allowfullscreen></iframe></div>
+   </div>
+</div>
+</div>
+   {% endblock %}
+
+
+{{ titulo }}<br/>
+{{ request.user }}<br/>
+<hr/>
+<br/>
+
+{% block content %}
+<div class="row">
+	<div class="col-sm-3 col-xs-12 pull-right">
+		<p class='lead text-align-center'>{{ titulo }}</p>
+		<form method="POST" action="">{% csrf_token %}
+		{{ el_form|crispy }}
+		<input class='btn btn-primary' type='submit'value='Inscribirse' />
+		</form>
+	</div>
+<div class='col-sm-3'>
+	<p class='lead text-align-center'> Creando con Django &amp; Bootstrap<i class="fab fa-angellist"></i></p>
+</div>
+<div class='col-sm-3'>
+	<p class='lead text-align-center'> Con mucho amor para Jaime</p>
+</div>
+<div class='col-sm-3'>
+	<p class='lead text-align-center'> Opensource always <3<br/><i class="fas fa-code fa-5x"></i></p><img src='{% static "img/gatito_feli.jpg" %}'/>
+</div>
+</div>
+<hr/>
+{% endblock %}

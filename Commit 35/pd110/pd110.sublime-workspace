@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bk",
+				"background-color\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"email",
+				"email_from"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"ur",
+				"urls"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 1485,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body {\n  min-height: 2000px;\n}\n\n.navbar-static-top {\n  margin-bottom: 19px;\n}\n\n.navbar-default{\n\tbackground-color: #2D572C!important;\n}\n\n",
+			"file": "src/static_pro/static/css/navbar-static-top.css",
+			"file_size": 138,
+			"file_write_time": 132433929764359208,
+			"settings":
+			{
+				"buffer_size": 137,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Usuarios/Abraham/Desktop/pd110",
+		"/D/Usuarios/Abraham/Desktop/pd110/src",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/boletin",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/src",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/src/__pycache__",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static/css",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static/img",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static/js",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates",
+		"/D/Usuarios/Abraham/Desktop/pd110/static_env",
+		"/D/Usuarios/Abraham/Desktop/pd110/static_env/static_root",
+		"/D/Usuarios/Abraham/Desktop/pd110/static_env/static_root/admin"
+	],
+	"file_history":
+	[
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/navbar.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/src/settings.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/src/urls.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/inicio.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/base.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/registration_form.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_reset_confirm.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_reset_done.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_reset_form.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/registration_closed.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/registration_complete.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_change_done.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_change_form.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/login.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/logout.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/activate.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/activation_complete.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/javascript.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/activation_email.txt",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_reset_email.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/password_reset_complete.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/registration/activation_email_subject.txt",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/boletin/views.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/forms.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/src/views.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static/css/custom.css",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/templates/head_css.html",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/static_pro/static/css/navbar-static-top.css",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/boletin/forms.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/boletin/models.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/boletin/admin.py",
+		"/D/Usuarios/Abraham/Desktop/pd110/src/manage.py",
+		"/D/Usuarios/Abraham/Desktop/pycoingecko.py",
+		"/D/Usuarios/Abraham/Desktop/coinmarketcap.py",
+		"/D/Usuarios/Abraham/Django/pd110/Lib/site-packages/django/forms/formsets.py",
+		"/D/Usuarios/Abraham/Django/pd110/src/pd110/urls.py",
+		"/D/Usuarios/Abraham/Django/pd110/src/pd110/settings.py",
+		"/D/Usuarios/Abraham/Django/pd110/src/boletin/admin.py",
+		"/D/Usuarios/Abraham/Django/pd110/src/boletin/models.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"registration_register",
+			"profile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/inicio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/static_pro/static/css/navbar-static-top.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pd110.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,46 @@
+   {% extends "base.html" %}
+   {% load crispy_forms_tags %}
+
+{% block head_title %}Bienvenidos | {{block.super}}{% endblock %}
+   {% block jumbotron_content %}
+   <div class='row'>
+     <div class='col-sm-6'>
+        <h1>Probando Django 3.0</h1>
+        <p>Un proyecto para principiantes. El objetivo es construir un aplicacion web simple a la vez que sea elegante en muy poco tiempo</p>
+       
+        <p>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button"> Únete! &raquo;</a>
+        </p>
+     </div>
+     <div class='col-sm-6' style='background-color:black;height:300px;'></div>
+   </div>
+    
+   {% endblock %}
+
+
+{{ titulo }}<br/>
+{{ request.user }}<br/>
+<hr/>
+<br/>
+
+{% block content %}
+<div class="row">
+	<div class="col-sm-3 col-xs-12 pull-right">
+		<p class='lead'>{{ titulo }}</p>
+		<form method="POST" action="">{% csrf_token %}
+		{{ el_form|crispy }}
+		<input class='btn btn-primary' type='submit'value='Inscribirse' />
+		</form>
+	</div>
+<div class='col-sm-3'>
+	<p class='lead'> Creando con Django &amp; Bootstrap</p>
+</div>
+<div class='col-sm-3'>
+	<p class='lead'> Con mucho amor para Jaime</p>
+</div>
+<div class='col-sm-3'>
+	<p class='lead'> Opensource always <3</p>
+</div>
+</div>
+<hr/>
+{% endblock %}
