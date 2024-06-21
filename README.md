@@ -1,0 +1,1 @@
+In this repository you will find my first project in Djando where I have learned to know the framework and how it works. It is a simple page which can be done in several days. The commits are listed so you can see the progress of the page little by little.
